@@ -22,7 +22,7 @@ CRUDE (Create, Read, Update, Delete) com FastApi usando PostgreSQL
 >    pip install fastapi uvicorn autopep8
 * Intalar psycopg 
 >    pip install psycopg
-* Criar e conectar Usuário no banco de dados 
+* Criar e conectar usuário no banco de dados 
 * Criar tabela e conectar na base de dados
 * Criar tabela com os campos:
 >    CREATE TABLE "user"(id serial PRIMARY KEY, name VARCHAR(100) NOT NULL, phone VARCHAR(10) NOT NULL);
