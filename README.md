@@ -1,3 +1,6 @@
+![FastApiCRUD](https://user-images.githubusercontent.com/94191697/188949992-f580d84e-97f6-440f-bb26-b6313de99988.png)
+
+
 ## CRUD FastApi
  
 CRUDE (Create, Read, Update, Delete) com FastApi usando PostgreSQL
