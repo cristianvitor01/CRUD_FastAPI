@@ -3,7 +3,7 @@
 
 ## CRUD FastApi
  
-CRUDE (Create, Read, Update, Delete) com FastApi usando PostgreSQL
+CRUD (Create, Read, Update, Delete) com FastApi usando PostgreSQL
  
  
 ## Tecnologia 
