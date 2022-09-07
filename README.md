@@ -27,6 +27,8 @@ CRUDE (Create, Read, Update, Delete) com FastApi usando PostgreSQL
 ## Rodar Projeto
  
 > uvicorn main:app --reload
+* Documentação 
+> localhot:8000/docs
  
  
 ## Versão
