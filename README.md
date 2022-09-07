@@ -27,7 +27,7 @@ CRUDE (Create, Read, Update, Delete) com FastApi usando PostgreSQL
 * Criar tabela com os campos:
 >    CREATE TABLE "user"(id serial PRIMARY KEY, name VARCHAR(100) NOT NULL, phone VARCHAR(10) NOT NULL);
 
-## Rodar Projeto
+## Executar Projeto
  
 > uvicorn main:app --reload
 * Documentação 
